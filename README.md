@@ -1,3 +1,7 @@
 # Stars
-My first repo
-whole universe is against me
+#My first repo
+
+def Add(x,y):
+    print(x+y)
+    
+Add(10,20)
